@@ -107,7 +107,7 @@ main {
     color: #FDE3A7;
 }
 
-@media (max-width: 767px) {
+@media only screen and (max-width: 768px) {
     .main__section-img {
         width: 100%;
         object-fit: cover;
@@ -125,7 +125,6 @@ main {
 
     .main__section-parrafo {
         width: 80%;
-        padding: 40px;
         margin: 0 auto 50px;
         font-size: 22px;
     }
