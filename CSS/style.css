@@ -14,6 +14,19 @@
     z-index: 1000;
 }
 
+#text {
+    z-index: 100;
+    position: absolute;
+    color: white;
+    font-size: 90px;
+    font-weight: bold;
+    left: 400px;
+    top: 350px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    text-shadow: 0.1em 0.1em #333;
+  }
+
 .logo {
     height: 100px;
     margin: 10px;
@@ -132,4 +145,17 @@ main {
     .footer__invitacion h2 {
         font-size: 20px;
     }
+
+    #text {
+        z-index: 100;
+        position: absolute;
+        color: white;
+        font-size: 45px;
+        font-weight: bold;
+        left: 100px;
+        top: 350px;
+        font-family: 'Bebas Neue', cursive;
+        font-weight: bold;
+        text-shadow: 0.1em 0.1em #333;
+      }
 }
