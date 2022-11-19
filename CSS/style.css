@@ -49,9 +49,9 @@ main {
     font-family: 'Bebas Neue', cursive;
 }
 
-.footer__invitacion h2 {
+.footer__invitacion p {
     color: #ffffff;
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 200;
     margin-top: 50px;
     margin-bottom: 15px;
@@ -96,7 +96,7 @@ main {
 
 .inicio__text {
     margin: 80px;
-    font-size: 85px;
+    font-size: 60px;
     font-weight: 600px;
     text-transform: uppercase;
     text-align: center;
@@ -109,7 +109,7 @@ main {
 .main__section-parrafo {
     width: 600px;
     margin: 100px;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 300;
     text-align: justify;
     color: #ffffff;
@@ -133,7 +133,7 @@ main {
     }
 
     .inicio__text {
-        font-size: 50px;
+        font-size: 40px;
     }
 
     .main__section-parrafo {
@@ -142,8 +142,8 @@ main {
         font-size: 14px;
     }
 
-    .footer__invitacion h2 {
-        font-size: 12px;
+    .footer__invitacion p {
+        font-size: 20px;
     }
 
     #text {
